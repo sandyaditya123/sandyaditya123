@@ -10,7 +10,7 @@
 
 ## 📊 GitHub Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandyaditya123&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sandyaditya123&theme=&hide_border=false)<br/>
+![Sandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandyaditya123&show_icons=true&theme=radical)
+![Sandy's Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sandyaditya123&theme=radical&hide_border=false)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
